@@ -18,7 +18,7 @@ function renderPage(html, preloadedState) {
   <!doctype html>
   <html>
     <head>
-      <title>Rover - Search</title>
+      <title>React-Redux-SSR</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     </head>
     <body>
